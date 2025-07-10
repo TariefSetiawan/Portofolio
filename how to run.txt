@@ -1,0 +1,5 @@
+yolo task=detect mode=predict model=yolov8m_custom.pt show=True conf=0.5 source=1.jpeg line_thickness=1 
+
+
+
+classes=[0]

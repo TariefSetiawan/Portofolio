@@ -1,0 +1,6 @@
+train: C:\Users\T Arief Setiawan\OneDrive\Desktop\YOLO\train
+val: C:\Users\T Arief Setiawan\OneDrive\Desktop\YOLO\val
+
+nc: 2
+
+names: ["hat", "jacket"]
